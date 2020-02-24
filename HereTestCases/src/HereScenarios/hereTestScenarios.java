@@ -53,6 +53,7 @@ public class hereTestScenarios {
 		System.out.println("Voila! 200 status it is...");
 	}
 	
+	@Test
 	public void hereTestCase3() {
 		/**
 		 * This is the third test case scenario
